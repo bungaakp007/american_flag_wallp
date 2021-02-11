@@ -1,0 +1,372 @@
+{
+   "packagename": "com.zayviusdigital.wallpaper_json",
+   "bung_aakp007": [
+      {
+		"id" : "1",
+		"link_images" : "file:///android_asset/gambar/american1.jpg"
+	  }, {
+		"id" : "2",
+		"link_images" : "file:///android_asset/gambar/american2.jpg"
+	  }, {
+		"id" : "3",
+		"link_images" : "file:///android_asset/gambar/american3.jpg"
+	  }, {
+		"id" : "4",
+		"link_images" : "file:///android_asset/gambar/american4.jpg"
+	  }, {
+		"id" : "5",
+		"link_images" : "file:///android_asset/gambar/american5.jpg"
+	  }, {
+		"id" : "6",
+		"link_images" : "file:///android_asset/gambar/american6.jpg"
+	  }, {
+		"id" : "7",
+		"link_images" : "file:///android_asset/gambar/american7.jpg"
+	  }, {
+		"id" : "8",
+		"link_images" : "file:///android_asset/gambar/american8.jpg"
+	  }, {
+		"id" : "9",
+		"link_images" : "file:///android_asset/gambar/american9.jpg"
+	  }, {
+		"id" : "10",
+		"link_images" : "file:///android_asset/gambar/american10.jpg"
+	  }, {
+		"id" : "11",
+		"link_images" : "file:///android_asset/gambar/american11.jpg"
+	  }, {
+		"id" : "12",
+		"link_images" : "file:///android_asset/gambar/american12.jpg"
+	  }, {
+		"id" : "13",
+		"link_images" : "file:///android_asset/gambar/american13.jpg"
+	  }, {
+		"id" : "14",
+		"link_images" : "file:///android_asset/gambar/american14.jpg"
+	  }, {
+		"id" : "15",
+		"link_images" : "file:///android_asset/gambar/american15.jpg"
+	  }, {
+		"id" : "16",
+		"link_images" : "file:///android_asset/gambar/american16.jpg"
+	  }, {
+		"id" : "17",
+		"link_images" : "file:///android_asset/gambar/american17.jpg"
+	  }, {
+		"id" : "18",
+		"link_images" : "file:///android_asset/gambar/american18.jpg"
+	  }, {
+		"id" : "19",
+		"link_images" : "file:///android_asset/gambar/american19.jpg"
+	  }, {
+		"id" : "20",
+		"link_images" : "file:///android_asset/gambar/american20.jpg"
+	  }, {
+		"id" : "21",
+		"link_images" : "file:///android_asset/gambar/american21.jpg"
+	  }, {
+		"id" : "22",
+		"link_images" : "file:///android_asset/gambar/american22.jpg"
+	  }, {
+		"id" : "23",
+		"link_images" : "file:///android_asset/gambar/american23.jpg"
+	  }, {
+		"id" : "24",
+		"link_images" : "file:///android_asset/gambar/american24.jpg"
+	  }, {
+		"id" : "25",
+		"link_images" : "file:///android_asset/gambar/american25.jpg"
+	  }, {
+		"id" : "26",
+		"link_images" : "file:///android_asset/gambar/american26.jpg"
+	  }, {
+		"id" : "27",
+		"link_images" : "file:///android_asset/gambar/american27.jpg"
+	  }, {
+		"id" : "28",
+		"link_images" : "file:///android_asset/gambar/american28.jpg"
+	  }, {
+		"id" : "29",
+		"link_images" : "file:///android_asset/gambar/american29.jpg"
+	  }, {
+		"id" : "30",
+		"link_images" : "file:///android_asset/gambar/american30.jpg"
+	  }, {
+		"id" : "31",
+		"link_images" : "file:///android_asset/gambar/american31.jpg"
+	  }, {
+		"id" : "32",
+		"link_images" : "file:///android_asset/gambar/american32.jpg"
+	  }, {
+		"id" : "33",
+		"link_images" : "file:///android_asset/gambar/american33.jpg"
+	  }, {
+		"id" : "34",
+		"link_images" : "file:///android_asset/gambar/american34.jpg"
+	  }, {
+		"id" : "35",
+		"link_images" : "file:///android_asset/gambar/american35.jpg"
+	  }, {
+		"id" : "36",
+		"link_images" : "file:///android_asset/gambar/american36.jpg"
+	  }, {
+		"id" : "37",
+		"link_images" : "file:///android_asset/gambar/american37.jpg"
+	  }, {
+		"id" : "38",
+		"link_images" : "file:///android_asset/gambar/american38.jpg"
+	  }, {
+		"id" : "39",
+		"link_images" : "file:///android_asset/gambar/american39.jpg"
+	  }, {
+		"id" : "40",
+		"link_images" : "file:///android_asset/gambar/american40.jpg"
+	  }, {
+		"id" : "41",
+		"link_images" : "file:///android_asset/gambar/american41.jpg"
+	  }, {
+		"id" : "42",
+		"link_images" : "file:///android_asset/gambar/american42.jpg"
+	  }, {
+		"id" : "43",
+		"link_images" : "file:///android_asset/gambar/american43.jpg"
+	  }, {
+		"id" : "44",
+		"link_images" : "file:///android_asset/gambar/american44.jpg"
+	  }, {
+		"id" : "45",
+		"link_images" : "file:///android_asset/gambar/american45.jpg"
+	  }, {
+		"id" : "46",
+		"link_images" : "file:///android_asset/gambar/american46.jpg"
+	  }, {
+		"id" : "47",
+		"link_images" : "file:///android_asset/gambar/american47.jpg"
+	  }, {
+		"id" : "48",
+		"link_images" : "file:///android_asset/gambar/american48.jpg"
+	  }, {
+		"id" : "49",
+		"link_images" : "file:///android_asset/gambar/american49.jpg"
+	  }, {
+		"id" : "50",
+		"link_images" : "file:///android_asset/gambar/american50.jpg"
+	  }, {
+		"id" : "51",
+		"link_images" : "file:///android_asset/gambar/american51.jpg"
+	  }, {
+		"id" : "52",
+		"link_images" : "file:///android_asset/gambar/american52.jpg"
+	  }, {
+		"id" : "53",
+		"link_images" : "file:///android_asset/gambar/american53.jpg"
+	  }, {
+		"id" : "54",
+		"link_images" : "file:///android_asset/gambar/american54.jpg"
+	  }, {
+		"id" : "55",
+		"link_images" : "file:///android_asset/gambar/american55.jpg"
+	  }, {
+		"id" : "56",
+		"link_images" : "file:///android_asset/gambar/american56.jpg"
+	  }, {
+		"id" : "57",
+		"link_images" : "file:///android_asset/gambar/american57.jpg"
+	  }, {
+		"id" : "58",
+		"link_images" : "file:///android_asset/gambar/american58.jpg"
+	  }, {
+		"id" : "59",
+		"link_images" : "file:///android_asset/gambar/american59.jpg"
+	  }, {
+		"id" : "60",
+		"link_images" : "file:///android_asset/gambar/american60.jpg"
+	  }, {
+		"id" : "61",
+		"link_images" : "file:///android_asset/gambar/american61.jpg"
+	  }, {
+		"id" : "62",
+		"link_images" : "file:///android_asset/gambar/american62.jpg"
+	  }, {
+		"id" : "63",
+		"link_images" : "file:///android_asset/gambar/american63.jpg"
+	  }, {
+		"id" : "64",
+		"link_images" : "file:///android_asset/gambar/american64.jpg"
+	  }, {
+		"id" : "65",
+		"link_images" : "file:///android_asset/gambar/american65.jpg"
+	  }, {
+		"id" : "66",
+		"link_images" : "file:///android_asset/gambar/american66.jpg"
+	  }, {
+		"id" : "67",
+		"link_images" : "file:///android_asset/gambar/american67.jpg"
+	  }, {
+		"id" : "68",
+		"link_images" : "file:///android_asset/gambar/american68.jpg"
+	  }, {
+		"id" : "69",
+		"link_images" : "file:///android_asset/gambar/american69.jpg"
+	  }, {
+		"id" : "70",
+		"link_images" : "file:///android_asset/gambar/american70.jpg"
+	  }, {
+		"id" : "71",
+		"link_images" : "file:///android_asset/gambar/american71.jpg"
+	  }, {
+		"id" : "72",
+		"link_images" : "file:///android_asset/gambar/american72.jpg"
+	  }, {
+		"id" : "73",
+		"link_images" : "file:///android_asset/gambar/american73.jpg"
+	  }, {
+		"id" : "74",
+		"link_images" : "file:///android_asset/gambar/american74.jpg"
+	  }, {
+		"id" : "75",
+		"link_images" : "file:///android_asset/gambar/american75.jpg"
+	  }, {
+		"id" : "76",
+		"link_images" : "file:///android_asset/gambar/american76.jpg"
+	  }, {
+		"id" : "77",
+		"link_images" : "file:///android_asset/gambar/american77.jpg"
+	  }, {
+		"id" : "78",
+		"link_images" : "file:///android_asset/gambar/american78.jpg"
+	  }, {
+		"id" : "79",
+		"link_images" : "file:///android_asset/gambar/american79.jpg"
+	  }, {
+		"id" : "80",
+		"link_images" : "file:///android_asset/gambar/american80.jpg"
+	  }, {
+		"id" : "81",
+		"link_images" : "file:///android_asset/gambar/american81.jpg"
+	  }, {
+		"id" : "82",
+		"link_images" : "file:///android_asset/gambar/american82.jpg"
+	  }, {
+		"id" : "83",
+		"link_images" : "file:///android_asset/gambar/american83.jpg"
+	  }, {
+		"id" : "84",
+		"link_images" : "file:///android_asset/gambar/american84.jpg"
+	  }, {
+		"id" : "85",
+		"link_images" : "file:///android_asset/gambar/american85.jpg"
+	  }, {
+		"id" : "86",
+		"link_images" : "file:///android_asset/gambar/american86.jpg"
+	  }, {
+		"id" : "87",
+		"link_images" : "file:///android_asset/gambar/american87.jpg"
+	  }, {
+		"id" : "88",
+		"link_images" : "file:///android_asset/gambar/american88.jpg"
+	  }, {
+		"id" : "89",
+		"link_images" : "file:///android_asset/gambar/american89.jpg"
+	  }, {
+		"id" : "90",
+		"link_images" : "file:///android_asset/gambar/american90.jpg"
+	  }, {
+		"id" : "91",
+		"link_images" : "file:///android_asset/gambar/american91.jpg"
+	  }, {
+		"id" : "92",
+		"link_images" : "file:///android_asset/gambar/american92.jpg"
+	  }, {
+		"id" : "93",
+		"link_images" : "file:///android_asset/gambar/american93.jpg"
+	  }, {
+		"id" : "94",
+		"link_images" : "file:///android_asset/gambar/american94.jpg"
+	  }, {
+		"id" : "95",
+		"link_images" : "file:///android_asset/gambar/american95.jpg"
+	  }, {
+		"id" : "96",
+		"link_images" : "file:///android_asset/gambar/american96.jpg"
+	  }, {
+		"id" : "97",
+		"link_images" : "file:///android_asset/gambar/american97.jpg"
+	  }, {
+		"id" : "98",
+		"link_images" : "file:///android_asset/gambar/american98.jpg"
+	  }, {
+		"id" : "99",
+		"link_images" : "file:///android_asset/gambar/american99.jpg"
+	  }, {
+		"id" : "100",
+		"link_images" : "file:///android_asset/gambar/american100.jpg"
+	  }, {
+		"id" : "101",
+		"link_images" : "file:///android_asset/gambar/american101.jpg"
+	  }, {
+		"id" : "102",
+		"link_images" : "file:///android_asset/gambar/american102.jpg"
+	  }, {
+		"id" : "103",
+		"link_images" : "file:///android_asset/gambar/american103.jpg"
+	  }, {
+		"id" : "104",
+		"link_images" : "file:///android_asset/gambar/american104.jpg"
+	  }, {
+		"id" : "105",
+		"link_images" : "file:///android_asset/gambar/american105.jpg"
+	  }, {
+		"id" : "106",
+		"link_images" : "file:///android_asset/gambar/american106.jpg"
+	  }, {
+		"id" : "107",
+		"link_images" : "file:///android_asset/gambar/american107.jpg"
+	  }, {
+		"id" : "108",
+		"link_images" : "file:///android_asset/gambar/american108.jpg"
+	  }, {
+		"id" : "109",
+		"link_images" : "file:///android_asset/gambar/american109.jpg"
+	  }, {
+		"id" : "110",
+		"link_images" : "file:///android_asset/gambar/american110.jpg"
+	  }, {
+		"id" : "111",
+		"link_images" : "file:///android_asset/gambar/american111.jpg"
+	  }, {
+		"id" : "112",
+		"link_images" : "file:///android_asset/gambar/american112.jpg"
+	  }, {
+		"id" : "113",
+		"link_images" : "file:///android_asset/gambar/american113.jpg"
+	  }, {
+		"id" : "114",
+		"link_images" : "file:///android_asset/gambar/american114.jpg"
+	  }, {
+		"id" : "115",
+		"link_images" : "file:///android_asset/gambar/american115.jpg"
+	  }, {
+		"id" : "116",
+		"link_images" : "file:///android_asset/gambar/american116.jpg"
+	  }, {
+		"id" : "117",
+		"link_images" : "file:///android_asset/gambar/american117.jpg"
+	  }, {
+		"id" : "118",
+		"link_images" : "file:///android_asset/gambar/american118.jpg"
+	  }, {
+		"id" : "119",
+		"link_images" : "file:///android_asset/gambar/american119.jpg"
+	  }, {
+		"id" : "120",
+		"link_images" : "file:///android_asset/gambar/american120.jpg"
+	  }, {
+		"id" : "121",
+		"link_images" : "file:///android_asset/gambar/american121.jpg"
+	  }, {
+		"id" : "122",
+		"link_images" : "file:///android_asset/gambar/american122.jpg"
+	  }
+   ]
+}
